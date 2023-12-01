@@ -44,8 +44,13 @@ THEN I am able to view posts and comments but I am prompted to log in again befo
 
 ## Mock-Up
 
+https://github.com/mradison/Tech-Blog-Model-View-Controller
+
 
 
 ## Notes
 
 Here are some websites I used to help me with my assignment: (I also got help from my instructor, TA and Tutor):
+
+https://handlebarsjs.com/guide/
+
