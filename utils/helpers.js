@@ -8,12 +8,12 @@ module.exports = {
       }`;
     },
   
-    checkAuth: (req,res, next) => {
-      if (!req.session.loggedIn){
-        res.render('login')
-      }else {
-        next()
-      }
-    }
+  //   checkAuth: (req,res, next) => {
+  //     if (!req.session.loggedIn){
+  //       res.render('login')
+  //     }else {
+  //       next()
+  //     }
+  //   }
   };
   
